@@ -9,7 +9,6 @@ alembic==1.13.1
 
 # Validación de datos
 pydantic==1.10.12
-pydantic-settings==1.10.12
 
 # Seguridad
 python-jose[cryptography]==3.3.0
